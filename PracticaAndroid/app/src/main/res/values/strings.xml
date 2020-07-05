@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica Android</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_apellido">Apellidos</string>
+    <string name="text_dni">DNI</string>
+    <string name="text_direccion">Dirección</string>
+    <string name="text_usuario">Usuario</string>
+    <string name="text_password">Contraseña</string>
+</resources>
